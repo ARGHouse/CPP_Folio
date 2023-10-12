@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ARGHouse\source\repos\ItemShop-v2\main.cpp(121,18): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\ARGHouse\source\repos\ItemShop-v2\main.cpp(142,18): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  ItemShop-v2.vcxproj -> C:\Users\ARGHouse\source\repos\ItemShop-v2\x64\Debug\ItemShop-v2.exe
