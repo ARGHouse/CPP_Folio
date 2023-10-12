@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ARGHouse\source\repos\HumansVsThargoids-v3\main.cpp(67,51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HumansVsThargoids-v3.vcxproj -> C:\Users\ARGHouse\source\repos\HumansVsThargoids-v3\x64\Debug\HumansVsThargoids-v3.exe
